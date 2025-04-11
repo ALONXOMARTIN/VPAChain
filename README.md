@@ -1,2 +1,2 @@
 # VPAChain
-Một chuỗi phần mềm về blockchain hóa nông nghiệp
+A blockchain software chain for agriculture
